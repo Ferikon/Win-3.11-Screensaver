@@ -1,6 +1,7 @@
 # INTRU CG assignments (In progress)
 ## Description
-
+### Windows 3.11 Screensaver
+Made by Arsenii Gusev AIb-23
 This repository contains the basic files of laboratory and practical work for students of the AIB, of the Baikal school BRICS, INRTU.
 Descriptions of laboratory work are presented directly in the notebook files.
 
